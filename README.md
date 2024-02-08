@@ -1,2 +1,2 @@
 ## Laboratorio de POO II
-* Daniel Varela García
+* Daniel Varela García"# POO2LAB" 
